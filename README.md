@@ -1,4 +1,4 @@
-# Bem-vindo ao TicketGO APP 📲
+# TicketGO APP 📲
 
 Este projeto consiste em um aplicativo mobile desenvolvido para realizar a autenticação de ingressos de eventos através da leitura de QRCode. A aplicação móvel é uma extensão do ecossistema <strong>TicketGO</strong>, proporcionando uma <strong>ferramenta poderosa</strong> para que os produtores possam validar ingressos em tempo real durante seus eventos.
 
@@ -21,17 +21,7 @@ Este projeto consiste em um aplicativo mobile desenvolvido para realizar a auten
 
 ## Executar Projeto:
 
-### Clone este repositório:
-
-```bash
-   https://github.com/ticket-go/ticketgo-mobile-app.git
-```
-
 ### Navegue até o diretório do projeto:
-
-```bash
-   cd ticketgo-mobile-app
-```
 
 ### Instale as dependências:
 
